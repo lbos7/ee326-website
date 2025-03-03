@@ -1,4 +1,29 @@
-#msg {
-    border: 1px solid #CCCCCC;
-    border-radius: 5px;
+.video_zone {
+    background-color: white;
+}
+
+.header {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+}
+
+
+.bio_text {
+    flex: 55%;
+    text-align: center;
+}
+
+#bios {
+    text-align: center;
+    font-family: monospace;
+}
+
+.title_text {
+    text-align: center;
+    font-size: 200%;
+    font-family: monospace;
+    font: "optima";
+    background-color: skyblue;
 }
