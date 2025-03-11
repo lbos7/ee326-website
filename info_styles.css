@@ -9,16 +9,16 @@
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    color: red;
+    color:  purple;
 }
 
 .bio_pic {
-    width: 25%;
+    width: 15%;
     /*margin-left: 20%;
     margin-right: 20%;
     padding: 10px; 
     */
-    flex:25%;
+    flex:15%;
     object-fit: contain;
 }
 
