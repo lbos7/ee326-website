@@ -13,12 +13,12 @@
 }
 
 .bio_pic {
-    width: 45%;
+    width: 25%;
     /*margin-left: 20%;
     margin-right: 20%;
     padding: 10px; 
     */
-    flex:45%;
+    flex:25%;
     object-fit: contain;
 }
 
@@ -30,7 +30,7 @@
     width: 55%;
 }
 
-#bios {
+.bios {
     text-align: center;
     font-family: monospace;
     font-size: 2.5vw;
