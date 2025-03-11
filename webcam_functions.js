@@ -120,7 +120,7 @@ function onClick() { // Our function that runs when button is clicked
     // Run doConnect() if Websocket is closed or websocket.close() if opn
     if (b.innerText == "Start Webcam") {
         doConnect();
-        b.style.backgroundColor = "skyblue";
+        b.style.backgroundColor = "purple";
     }
     else if (b.innerText == "Stop Webcam"){
         websocket.close();
